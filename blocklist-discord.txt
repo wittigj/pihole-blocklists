@@ -2,3 +2,6 @@
 
 ||discord.com^
 ||discord.media^
+||discord.app^
+||discord.net^
+||discord.gg^
